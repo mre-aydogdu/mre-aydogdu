@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @mre-aydogdu
 - 👀 I’m interested in Technology and CS
-- 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on Anything
 - 📫 How to reach me `mre.aydogdu@gmail.com`
 
